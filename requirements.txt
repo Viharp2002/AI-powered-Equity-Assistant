@@ -1,9 +1,11 @@
-streamlit
-google-generativeai
 llama-index
 langchain
+streamlit
+pytorch
+numpy
+pandas
+google-generativeai
+sentence_transformers
 nest_asyncio
 IPython
-sentence_transformers
-torch
 pypdf
